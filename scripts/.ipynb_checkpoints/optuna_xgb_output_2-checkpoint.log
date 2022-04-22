@@ -1,0 +1,10 @@
+A new study created in RDB with name: mar_2021_test_2
+Start optimization.
+start listen on 192.168.1.101:50441
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 0 finished with value: 0.8904225736311467 and parameters: {'objective': 'binary:logistic', 'tree_method': 'gpu_hist', 'lambda': 0.11338127222756118, 'alpha': 0.02031477869122243, 'colsample_bytree': 0.3109638854044059, 'subsample': 0.5296331323983782, 'learning_rate': 0.004012162067557496, 'max_depth': 15, 'min_child_weight': 55, 'eval_metric': 'logloss'}. Best is trial 0 with value: 0.8904225736311467.
+start listen on 192.168.1.101:37121
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 1 finished with value: 0.8933010470455489 and parameters: {'objective': 'binary:logistic', 'tree_method': 'gpu_hist', 'lambda': 5.016133759606091, 'alpha': 0.0013481093644254706, 'colsample_bytree': 0.623061485274759, 'subsample': 0.7454510990265245, 'learning_rate': 0.011786791260062407, 'max_depth': 15, 'min_child_weight': 148, 'eval_metric': 'logloss'}. Best is trial 1 with value: 0.8933010470455489.
